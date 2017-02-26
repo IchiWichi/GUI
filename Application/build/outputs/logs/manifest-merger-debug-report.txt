@@ -1,0 +1,49 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kouichisato/Downloads/GUI/Application/src/main/AndroidManifest.xml:18:1-36:12
+	package
+		ADDED from /Users/kouichisato/Downloads/GUI/Application/src/main/AndroidManifest.xml:19:5-47
+	xmlns:android
+		ADDED from /Users/kouichisato/Downloads/GUI/Application/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/kouichisato/Downloads/GUI/Application/src/main/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /Users/kouichisato/Downloads/GUI/Application/src/main/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera2
+ADDED from /Users/kouichisato/Downloads/GUI/Application/src/main/AndroidManifest.xml:22:5-61
+	android:name
+		ADDED from /Users/kouichisato/Downloads/GUI/Application/src/main/AndroidManifest.xml:22:19-58
+uses-feature#android.hardware.camera
+ADDED from /Users/kouichisato/Downloads/GUI/Application/src/main/AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from /Users/kouichisato/Downloads/GUI/Application/src/main/AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/kouichisato/Downloads/GUI/Application/src/main/AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from /Users/kouichisato/Downloads/GUI/Application/src/main/AndroidManifest.xml:24:19-67
+application
+ADDED from /Users/kouichisato/Downloads/GUI/Application/src/main/AndroidManifest.xml:26:5-34:19
+MERGED from [com.android.support:support-v13:23.3.0] /Users/kouichisato/Downloads/GUI/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /Users/kouichisato/Downloads/GUI/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.3.0] /Users/kouichisato/Downloads/GUI/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.0] /Users/kouichisato/Downloads/GUI/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/kouichisato/Downloads/GUI/Application/src/main/AndroidManifest.xml:28:9-41
+	android:allowBackup
+		ADDED from /Users/kouichisato/Downloads/GUI/Application/src/main/AndroidManifest.xml:27:9-35
+	android:icon
+		ADDED from /Users/kouichisato/Downloads/GUI/Application/src/main/AndroidManifest.xml:29:9-45
+	android:theme
+		ADDED from /Users/kouichisato/Downloads/GUI/Application/src/main/AndroidManifest.xml:30:9-45
+uses-sdk
+INJECTED from /Users/kouichisato/Downloads/GUI/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:23.3.0] /Users/kouichisato/Downloads/GUI/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:23.3.0] /Users/kouichisato/Downloads/GUI/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.3.0] /Users/kouichisato/Downloads/GUI/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.0] /Users/kouichisato/Downloads/GUI/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/kouichisato/Downloads/GUI/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/kouichisato/Downloads/GUI/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kouichisato/Downloads/GUI/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/kouichisato/Downloads/GUI/Application/src/main/AndroidManifest.xml

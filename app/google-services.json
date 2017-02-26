@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "410327276713",
+    "firebase_url": "https://ubas-597e3.firebaseio.com",
+    "project_id": "ubas-597e3",
+    "storage_bucket": "ubas-597e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410327276713:android:5e58dd04dc05e7ca",
+        "android_client_info": {
+          "package_name": "bonaguasato.gui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410327276713-ht8ruju184f09bu58isi2dom77ruhc0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxLn_QrUuHXUyZjPKGiCbpwzb_ZqmZ7NY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
